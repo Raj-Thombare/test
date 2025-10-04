@@ -1,3 +1,5 @@
 projects table added
 
 project filters added
+
+projects ui updated
