@@ -1,7 +1,0 @@
-timesheet added
-
-<<<<<<< HEAD
-timehsset ui
-=======
-timehsset ui
->>>>>>> 939455d (timesheet ui updated)
